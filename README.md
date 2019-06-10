@@ -1,2 +1,11 @@
 # MyShop_Mac
-MyShop project, but built using Visual Studio for Mac/OSX.
+This project is a rebuild of the eCommerce website built from my course Real World ASP.NET Development
+https://www.completecoder.net/p/real-world-asp-net-development
+
+The original codebase for the course can be found here https://github.com/completecoder/MyShop
+
+This version is the same code but rebuilt using Visual Studio for Mac.
+
+For the backend database I used SQL Linux running in a docker container.
+
+For more details post a message on my Facebook page at https://business.facebook.com/completecoder/
