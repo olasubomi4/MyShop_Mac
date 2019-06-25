@@ -8,4 +8,7 @@ This version is the same code but rebuilt using Visual Studio for Mac.
 
 For the backend database I used SQL Linux running in a docker container.
 
+You can see how to build a development environment on your Mac here:
+https://youtu.be/qSbdjQOcd6Q
+
 For more details post a message on my Facebook page at https://business.facebook.com/completecoder/
