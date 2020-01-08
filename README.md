@@ -1,6 +1,7 @@
 # MyShop_Mac
 This project is a rebuild of the eCommerce website built from my course Real World ASP.NET Development
-https://www.udemy.com/course/better-web-development-pro-techniques-for-success/?referralCode=08A1A0743AA31A4AD50A
+
+[MVC Web Development](https://www.udemy.com/course/better-web-development-pro-techniques-for-success/?referralCode=08A1A0743AA31A4AD50A)
 
 The original codebase for the course can be found here https://github.com/completecoder/MyShop
 
